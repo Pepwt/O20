@@ -1,0 +1,100 @@
+{
+   "checksum": "36de771118ed26d0110126835792fb10",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13294454089393103",
+               "date_last_used": "0",
+               "guid": "7ef772ee-8dd2-4afc-9da1-b90497a3f647",
+               "id": "21",
+               "name": "Acer",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.acer.com/"
+            } ],
+            "date_added": "13361685742989584",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "80678055-d19c-44ec-9643-057901f409c9",
+            "id": "20",
+            "name": "Acer",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13290057642400408",
+            "date_last_used": "0",
+            "guid": "155ea883-1a49-434d-bb14-713a03c17386",
+            "id": "22",
+            "name": "Portal Único de Acesso ao Ensino Superior",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://acessounico.mec.gov.br/"
+         }, {
+            "date_added": "13361685737160254",
+            "date_last_used": "0",
+            "guid": "c3ee2fbc-d194-484e-9803-cd45c7cc699f",
+            "id": "9",
+            "name": "Amazon",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13361685737160133",
+            "date_last_used": "0",
+            "guid": "769a945d-fdfa-4523-8c20-b1fa777aea8d",
+            "id": "8",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/booking.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13361685737157297",
+            "date_last_used": "0",
+            "guid": "01560361-25de-46cc-8ba7-15eedfe5d207",
+            "id": "7",
+            "name": "Facebook",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/20q2/facebook.html?utm_source=win32&utm_medium=favorite"
+         } ],
+         "date_added": "13361685736681175",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13361685736681178",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13361685736681179",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos do celular",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCImn89SPAQAAEgAqGDZNMVU2T1VGVys0blJWZDk5eGJpWnc9PUgDoAYEEqcBCBYSogEKHGJnVWxmTE9kTWd4Mk9kbEFkOW01Y2h4aUk3OD0SJDE1NWVhODgzLTFhNDktNDM0ZC1iYjE0LTcxM2EwM2MxNzM4NhgAIAIoAjDluoqP/TE478jptogwQMuhio/9MUocbkRkVy9WSkpzZ1R5SWc0TVBqN2JZYUkxeGRVPVoeIhx1NnhLKytYUk5nRStFYkZGei8rTVdHTUVYbFk9ZZLWZ0ISpwEIFRKiAQocdG1oZXJVYVJQODAvT1pZQVd2WTlEUW8wYzVJPRIkN2VmNzcyZWUtOGRkMi00YWZjLTlkYTEtYjkwNDk3YTNmNjQ3GAAgACgAMPvw1PyCMDj+8dT8gjBA/vHU/IIwShxJcGh0alovQkd2Y29IbEVNWHpkZmpEOHhjNlE9Wh4iHEZDNGNFWG55ZVRNNHpoWVVIVjcyY0RPUUJzQT1lAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ2OWM3MzI3Ny1lMWU3LTUyOGQtYjk4NS03MDE5ODg0Y2Q4NjYYACAAKAAwvIPK97AwONuDoNWCMEDbg6DVgjBKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqcBCBQSogEKHFB6dlE5N1FQM0UvR3B6R2Y0Nmd3RFYySGw3UT0SJDgwNjc4MDU1LWQxOWMtNDRlYy05NjQzLTA1NzkwMWY0MDljORgAIAAoADD78NT8gjA4wPHU/IIwQMDx1PyCMEocY0M3cVNBaEdwRjB5UVRNd2lOdVdhdFFSaUlvPVoeIhxRNWVKbmh2cW5PN1BkZFI4azMwVUNzekYrUTg9ZQAAAAASiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkMDMyYzBhMGEtZWUzZS01ZTIyLTkyNzktNmQ4NmM3ZWNmNTJmGAAgACgAMLyDyvewMDjegqDVgjBA3oKg1YIwShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQyNjI5ODNkMy04NTYyLTU1NTgtYjJmMS05NWRlMzY3YzM4MGYYACAAKAAwvIPK97AwOP2CoNWCMED9gqDVgjBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
